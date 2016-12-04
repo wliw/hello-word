@@ -1,7 +1,7 @@
 {
   "name": "hellegithub",
   "version": "1.0.0",
-  'keyword': "repository github",
+  'keywords': "repository github",
   "description": "This is my first repository",
   "main": "index.js",
   "scripts": {
